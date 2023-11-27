@@ -12,7 +12,7 @@
 Опитите продължават докато числото бъде познато.
 
 ##	Source code link
-#### 
+#### https://github.com/rangerdio/guess_a_number/blob/main/guess_a_number.py
 ##	Screenshots
 ##	Live demo (add a one-click live demo of your code)
 
